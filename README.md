@@ -18,4 +18,4 @@
   <a href="https://www.linkedin.com/in/josé-henrique-lopes-motta-7a5327267/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<img align="right" width="100px" alt="Imh-me" src="https://cdn.discordapp.com/attachments/1079966783584350311/1079967028028375130/ZdWrsME267IAAAAASUVORK5CYII.png">
+<img align="right" width="200px" right alt="Imh-me" src="https://cdn.discordapp.com/attachments/1079966783584350311/1079967028028375130/ZdWrsME267IAAAAASUVORK5CYII.png">
