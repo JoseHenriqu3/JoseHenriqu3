@@ -1,5 +1,7 @@
  <h3>Olá, me chamo José Henrique e sou programador.</h3>
  
+ <h3>Essas são as linguagens que eu trabalho:</h3>
+ 
  <img align="right" width="150px" height="200px" alt="Imh-me" src="https://cdn.discordapp.com/attachments/1079966783584350311/1079967028028375130/ZdWrsME267IAAAAASUVORK5CYII.png">
 
 <div style="display: inline_block"><br>
