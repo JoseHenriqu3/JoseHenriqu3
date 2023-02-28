@@ -1,4 +1,4 @@
-Olá, sou o José Henrique estudante de Programação
+Olá, sou o José Henrique estudante de programação
 
 <!--
 **JoseHenriqu3/JoseHenriqu3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
