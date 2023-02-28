@@ -1,4 +1,5 @@
  <h3>Olá, me chamo José Henrique e estudo programação</h3>
+ <img align="right" width="150px" height="200px" alt="Imh-me" src="https://cdn.discordapp.com/attachments/1079966783584350311/1079967028028375130/ZdWrsME267IAAAAASUVORK5CYII.png">
 
 <div style="display: inline_block"><br>
     <img align="center" alt="Jose-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -18,4 +19,4 @@
   <a href="https://www.linkedin.com/in/josé-henrique-lopes-motta-7a5327267/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<img align="right" width="150px" height="200px" alt="Imh-me" src="https://cdn.discordapp.com/attachments/1079966783584350311/1079967028028375130/ZdWrsME267IAAAAASUVORK5CYII.png">
+
