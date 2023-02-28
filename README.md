@@ -1,7 +1,4 @@
-Olá, sou o José Henrique estudante de programação
-
-Trabalho com as seguintes linguagens!
-  <h1 style="color: brown;">aaaaaaaaaaaa</h1>
+ <h1>Olá, sou o José Henrique estudante de programação</h1>
 
 <div style="display: inline_block"><br>
     <img align="center" alt="Jose-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
