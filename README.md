@@ -1,4 +1,4 @@
- <h2>Olá, sou o José Henrique estudante de programação</h2>
+ <h3>Olá, me chamo José Henrique e estudo de programação</h3>
 
 <div style="display: inline_block"><br>
     <img align="center" alt="Jose-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
